@@ -34,3 +34,4 @@
 [submodule "CarConnectivity-connector-volkswagen-na"]
 	path = CarConnectivity-connector-volkswagen-na
 	url = https://github.com/matpoulin/CarConnectivity-connector-volkswagen-na
+	branch = main
